@@ -6,3 +6,6 @@ formatC(4 * pi * 6371^2, big.mark = ",", format = "f", digits = 0), "km^2")
 cat("Its volume would be:\n",
 formatC(4/3 * pi * 6371^3, big.mark = ",", format = "f", digits = 0), "km^3")
 
+cat("Its weight would be:\n",
+    formatC(5.51 * 100000^3 / 1000000  * 1083206916846 , big.mark = ",", format = "f", digits = 0), "tons")
+
