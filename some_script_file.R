@@ -1,5 +1,9 @@
 # Calculate surface area of earth
 
-cat("This is something different.")
+
+3+3
+
+print("something completely different")
+
 
 5*5
