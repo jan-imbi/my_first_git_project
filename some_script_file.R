@@ -1,9 +1,4 @@
 # Calculate surface area of earth
 
-
-3+3
-
-print("something completely different")
-
-
-5*5
+cat("The earth's average distance from the sun is",
+    formatC(149160000, big.mark = ",", digits=0, format = "f"), "km.")
