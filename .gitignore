@@ -2,3 +2,4 @@
 .Rhistory
 .RData
 .Ruserdata
+data_that_should_not_be_public.txt
